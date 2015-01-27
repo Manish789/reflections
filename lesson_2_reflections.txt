@@ -9,3 +9,9 @@ it offers?
 Commit is applied on staging area. All the files present in staging area will be part of the repository.
 It offers the flexibility of which files to be added to Git repository and when, keeping it simple to separate
 unrelated changes/additions.
+
+How can you the staging area to make sure you have one commit per logical change?
+
+Whenever changes are made to files in the working directory, each independent change can only be added to
+staging area and then commit can be performed making it easier to add one commit per logical change in
+the Git Repository.
