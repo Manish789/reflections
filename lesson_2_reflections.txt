@@ -21,3 +21,7 @@ help?
 
 Branches can be helpful when the team is working on different releases and need to maintain separate track for
 each release making it easier to backtrack.
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams are helpful as it gives clear structure of what exactly is going on within the project.
