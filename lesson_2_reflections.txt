@@ -15,3 +15,9 @@ How can you the staging area to make sure you have one commit per logical change
 Whenever changes are made to files in the working directory, each independent change can only be added to
 staging area and then commit can be performed making it easier to add one commit per logical change in
 the Git Repository.
+
+What are some situations when branches would be helpful in keeping your history organized? How would brances
+help?
+
+Branches can be helpful when the team is working on different releases and need to maintain separate track for
+each release making it easier to backtrack.
