@@ -25,3 +25,8 @@ each release making it easier to backtrack.
 How do the diagrams help you visualize the branch structure?
 
 Diagrams are helpful as it gives clear structure of what exactly is going on within the project.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging of two branches results in the addition of new functionality along with the original changes as well.
+To make it clear that the merge was performed for two different branches.
