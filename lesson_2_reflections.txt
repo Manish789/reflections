@@ -30,3 +30,9 @@ What is the result of merging two branches together? Why do we represent it in t
 
 Merging of two branches results in the addition of new functionality along with the original changes as well.
 To make it clear that the merge was performed for two different branches.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+Automatic merging can save time. Very helpful in a big team. But it has it's issues as well.
+Merging everything manually is also not a good idea. So it is better to perform one check once the
+merging is complete making it sure that code is fine and as expected. 
